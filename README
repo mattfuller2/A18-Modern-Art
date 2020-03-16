@@ -1,0 +1,48 @@
+# Project 0: Modern Art
+
+* Author: Matt Fuller
+* Class: CS121 Section 6
+* Semester: Spring 2017
+
+## Overview
+
+This simple Java program will print characters that mimics a specific style of modern art
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+
+$ javac ModernArt.java
+
+
+Run the compiled class with the command:
+
+$ java ModernArt
+
+## Discussion
+
+After a few days in class learning and practicing the language, I feel like I
+did well on this project. The parts that took the most time for me to complete 
+were the README and Javadocs documentation.
+  
+I started my program by creating a ModernArt.java class. Next, I began to 
+start typing my code. Within the main method, I used multiple println statements
+to print out several asteriks that mimicked a specific type of modern art. I 
+then compiled the program into a form the computer can execute using the console.
+Finally, I ran the program to check if there were any errors.
+  
+I had to research the art of Piet Mondrian to get an idea of what 
+this specific style of modern art looks like. I learned how to use several 
+println statements and characters to mimic this style of painting.
+
+This project started off challenging, since I am new to Java and it's language.
+After attending class and completing the first lab, I am more familiar with 
+the language and the project became easier.  
+ 
+In the process of working on this project, the console controls and the 
+location of where I am in the directories finally "clicked" for me. I also have
+a better understanding of how a program is developed.  
+
+Everything that I learned in this project, which includes practically everything
+about programming, I will apply to future projects. All programs will have 
+similar structures, so developing programs in the future should be easier.
